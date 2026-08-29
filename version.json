@@ -1,8 +1,7 @@
 {
- "version": "1.0.9",
- "size": 361763,
- "sha256": "6209943d904c77219a59d9387fd725f22685a3f175ecabd4461c8e51b3a0cbbd",
- "publishedAt": "2026-08-29T19:28:01Z",
- "file": "SupportiveTVDisplay.apk",
- "note": "يُحدَّث مع كل رفع لملف التطبيق. قسم شاشة التلفزيون في الموقع يقرأ version من هنا فيعرف أحدث إصدار متاح بلا كتابة يدوية."
+ "version": "1.0.10",
+ "size": 415677,
+ "sha256": "d135a8b70ae9fa7e803dbaa0148ba2a25a4db2847e622cafbc998bb58175cbb6",
+ "publishedAt": "2026-08-29T19:46:49Z",
+ "file": "SupportiveTVDisplay.apk"
 }
